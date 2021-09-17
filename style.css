@@ -1,3 +1,96 @@
 body {
   background:blue;
 }
+
+header {
+  text-align: center;
+  background-color: white;
+  margin-left: 100px;
+  margin-right: 100px;
+}
+
+header h1 {
+  color: black;
+  margin:0;
+  padding:0;
+}
+
+header h6 {
+  color: black;
+  margin: 0;
+  padding: 0;
+}
+
+.Greeting h3 {
+  margin-top:30px;
+  padding-top: 30px;
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
+
+.Greeting p {
+  margin-top: 0;
+  padding-top: 0;
+}
+
+.About-Me h3 {
+  margin-top: 20px;
+  padding-top: 20px;
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
+
+.About-Me p {
+  margin-top: 0;
+  padding-top: 0;
+}
+
+.Goals-For-Now {
+  background-color: white;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+caption {
+  background-color: rgb(9, 9, 94);
+  color: rgb(247, 247, 247);
+}
+
+td, th {
+  background-color: white;
+  border: 1px solid #999;
+  padding: 0.5rem;
+  text-align: center;
+}
+
+#one-by-one {
+  border-left: none;
+}
+
+#two-by-one {
+  border-left:none;
+}
+
+#three-by-one {
+  border-left:none;
+  border-bottom:none;
+}
+
+#three-by-two {
+  border-bottom: none;
+}
+
+#three-by-three {
+  border-bottom: none;
+  border-right: none;
+}
+
+#two-by-three {
+  border-right: none;
+}
+
+#one-by-three {
+  border-right: none;
+}
